@@ -46,9 +46,6 @@ export default function Home() {
               <div className="scorecard-label">Total marks</div>
               <div className="scorecard-value">{total}</div>
             </div>
-            <div className="scorecard-block">
-              <div className="scorecard-label">Activities logged</div>
-            </div>
           </div>
         </div>
       </div>
