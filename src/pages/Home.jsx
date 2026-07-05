@@ -48,7 +48,6 @@ export default function Home() {
             </div>
             <div className="scorecard-block">
               <div className="scorecard-label">Activities logged</div>
-              <div className="scorecard-value">{count}</div>
             </div>
           </div>
         </div>
