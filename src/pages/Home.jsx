@@ -58,7 +58,6 @@ export default function Home() {
         <div className="section-title">
           <div>
             <div className="eyebrow">Explore</div>
-            <h2>See more</h2>
           </div>
         </div>
         <div style={{display:'flex', gap:10}}>
