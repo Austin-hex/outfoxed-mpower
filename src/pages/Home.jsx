@@ -36,7 +36,7 @@ export default function Home() {
       </div>
 
       <div className="section">
-        <p>{site.tagline || 'Our journey through the MPOWER personal enhancement program, one activity at a time.'}</p>
+        <p>{site.tagline || 'Our journey through the MPOWER personal enhancement program.'}</p>
       </div>
 
       <div className="section">
